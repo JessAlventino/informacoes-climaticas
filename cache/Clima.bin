@@ -1,0 +1,1 @@
+O:5:"Clima":12:{s:11:"temperatura";d:20.52;s:6:"cidade";s:7:"Brusque";s:7:"umidade";i:96;s:14:"direcaoDoVento";i:119;s:17:"velocidadeDoVento";d:0.92;s:15:"sensacaoTermica";d:21.13;s:9:"descricao";s:7:"nublado";s:17:"temperaturaMaxima";d:21.57;s:17:"temperaturaMinima";d:20.27;s:5:"icone";s:3:"04n";s:11:"nascerDoSol";i:1698827109;s:8:"porDoSol";i:1698874391;}
